@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EmergencyHelpManagerActivity!</string>
+    <string name="app_name">Emergency Help Manager</string>
+    <color name="Black">#FFFFFF</color>
+    <string name="ws">Women Security</string>
+    <string name="lt">Large Text</string>
+    <string name="JohnDoe">JohnDoe</string>
+     <string name="number">(999)9999999</string>
+    <string name="b">Button</string>
+    <string name="Delete">Delete</string>
+    <string name="Cancel">Cancel</string>
+    <string name="e">Are you sure to delete this number ?</string>
+    <string name="Add_Contacts">Add Contacts</string>
+    <string name="View_Phone_No">View_Phone_No</string>
+    <string name="Power_Button_Service">Power Button Service</string>
+    <string name="Shake_Service">Shake Service</string>
+    <string name="help"></string>
+    <string name="about"/>
+    
+
+</resources>
